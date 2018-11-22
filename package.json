@@ -27,6 +27,7 @@
     "pm2": "^3.2.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-test-renderer": "^16.6.3",
     "webpack": "^4.26.0"
   },
   "devDependencies": {
